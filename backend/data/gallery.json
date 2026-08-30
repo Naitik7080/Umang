@@ -1,0 +1,7 @@
+[
+  { "title": "Volunteer Registration Drive", "category": "volunteers", "image": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=800&q=80" },
+  { "title": "School Kit Distribution", "category": "education", "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=800&q=80" },
+  { "title": "Plantation Drive Weekend", "category": "environment", "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=800&q=80" },
+  { "title": "Annual Charity Fun Run", "category": "events", "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&w=800&q=80" },
+  { "title": "Mobile Health Camp", "category": "events", "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=800&q=80" }
+]
